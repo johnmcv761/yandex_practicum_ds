@@ -32,3 +32,7 @@ Price — цена (евро)
 **Инструменты**
 
 Python, Pandas, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных, seaborn, train_test_split, GridSearchCV, cross_val_score, RandomizedSearchCV, OrdinalEncoder, StandardScaler, LinearRegression, Ridge, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, CatBoostRegressor, LGBMRegressor, lgb, SVR, DummyRegressor, scipy stats, metrics, mean_squared_error, r2_score, mean_absolute_error, make_scorer
+
+**Статус**
+
+Закончен. Возможно улучшение и оптимизация.

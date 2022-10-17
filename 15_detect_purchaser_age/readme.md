@@ -20,3 +20,7 @@
 **Инструменты**
 
 Python, Pandas, Numpy, предобработка данных, Keras, pylab, tensorflow, ImageDataGenerator, Image, matplotlib, scipy, stats
+
+**Статус**
+
+Закончен. Возможно улучшение и оптимизация.

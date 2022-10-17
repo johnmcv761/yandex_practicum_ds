@@ -45,3 +45,7 @@
 **Инструменты**
 
 Python, Pandas, Numpy, предобработка данных, Matplotlib, Scikit-learn, datetime, timedelta, seaborn, OrdinalEncoder, StandardScaler, train_test_split, RandomizedSearchCV, cross_val_score, CatBoostClassifier, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, catboost, eval_metric, GradientBoostingClassifier, cross_val_score, accuracy_score, recall_score, precision_score, f1_score, roc_auc_score, roc_curve, confusion_matrix
+
+**Статус**
+
+Закончен. Возможно улучшение и оптимизация.

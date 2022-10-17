@@ -20,3 +20,7 @@
 **Инструменты**
 
 Python, Pandas, Numpy, предобработка данных, Bert, nltk, tf-idf, catboost, transformers, pytorch, tokenize, stopwords, wordnet, SnowballStemmer, WordNetLemmatizer, TfidfVectorizer, sklearn, train_test_split, GridSearchCV, TimeSeriesSplit, cross_val_score, KFold, compute_class_weight, f1_score, LogisticRegression,LogisticRegressionCV, DecisionTreeClassifier, RandomForestClassifier, DummyClassifier, CatBoostClassifier, shuffle
+
+**Статус**
+
+Закончен. Возможно улучшение и оптимизация.
