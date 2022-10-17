@@ -19,4 +19,4 @@
 
 **Инструменты**
 
-Python, Pandas, Keras
+Python, Pandas, Numpy, предобработка данных, Keras, pylab, tensorflow, ImageDataGenerator, Image, matplotlib, scipy, stats

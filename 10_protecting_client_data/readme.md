@@ -14,4 +14,4 @@
 
 **Инструменты**
 
-Python, Pandas, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных
+Python, Pandas, Numpy, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных, sklearn, train_test_split, LinearRegression, r2_score

@@ -43,4 +43,4 @@ calculation — расчётные характеристики
 
 **Инструменты**
 
-Python, Pandas, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных
+Python, Pandas, Numpy, Matplotlib, исследовательский анализ, визуализация данных, предобработка данных, datetime, sklearn, DecisionTreeRegressor, RandomForestRegressor, LinearRegression, StandardScaler, mean_absolute_error,  make_scorer, OrdinalEncoder, StandardScaler, RandomizedSearchCV, cross_val_score
